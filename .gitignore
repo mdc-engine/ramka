@@ -23,13 +23,10 @@ coverage/
 
 # IDE
 .vscode/
+._vscode/
 .idea/
 
 # OS
 .DS_Store
 Thumbs.db
 EOF
-
-# VS Code
-._vscode
-.vscode
